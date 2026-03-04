@@ -1,5 +1,6 @@
 # GO Projects
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
 
 <p align="center">
 <h1>  Made for Gopher </h1>
